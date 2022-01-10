@@ -1,0 +1,15 @@
+.list {
+	width: 80%;
+	margin: 20px auto 0;
+	border: 2px solid rgb(0, 0, 0);
+	padding: 10px 20px;
+	border-radius: 10px;
+	
+}
+
+.message {
+	font-size: 20px;
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	text-align: center;
+}
